@@ -413,10 +413,6 @@ class Ejercicio08 {
                 System.out.println("No se encuentra el fichero JavaBasico.txt");
 
 
-
-
-
-
                 Scanner h = new Scanner(System.in);
                 System.out.println("¿Quieres que lo cree ahora? (s / n)");
                 String ahora = h.nextLine();
@@ -437,18 +433,6 @@ class Ejercicio08 {
                         e.printStackTrace();
                     }
                 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -474,19 +458,5 @@ class Ejercicio08 {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
